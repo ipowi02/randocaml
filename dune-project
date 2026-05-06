@@ -5,11 +5,9 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github ipowi02/randocaml))
 
-(authors "Author Name <author@example.com>")
-
-(maintainers "Maintainer Name <maintainer@example.com>")
+(authors "Pongor Ádám <viktagugli@gmail.com>")
 
 (license LICENSE)
 
