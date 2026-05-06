@@ -1,0 +1,4 @@
+(executable
+ (public_name randocaml)
+ (name main)
+ (libraries randocaml unix))
